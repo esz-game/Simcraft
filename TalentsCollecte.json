@@ -1,0 +1,117 @@
+[
+{
+	"Id": 0,
+	"Nom": "Rien fouteur",
+	"IconID": 96,
+	"Background": "cuisine"
+},
+{
+	"ID": 1,
+	"Name": "Cuisinier",
+	"IconID": 96,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Entrées","Boissons", "Boissons chaudes", "Plats", "Patisserie", "confisserie"],
+	"Background": "cuisine"
+},
+{
+	"ID": 2,
+	"Name": "Potier Verrerier",
+	"IconID": 112,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Poterie", "Verrerie"],
+	"Background": "poterie"
+},
+{
+	"ID": 3,
+	"Name": "Tisserand",
+	"IconID": 128,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Confection","Vêtements","Chapeaux","Gants","Accessoires"],
+	"Background": "tissage"
+},
+{
+	"ID": 4,
+	"Name": "Menuisier",
+	"IconID": 160,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Scierie", "Instruments de musique", "Equipements", "Armement", "Mobilier"],
+	"Background": "menuiserie"
+},
+{
+	"ID": 5,
+	"Name": "Charpentier",
+	"IconID": 192,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Batiments", "Matériaux de construction"],
+	"Background": ""
+},
+{
+	"ID": 6,
+	"Name": "Sculteur",
+	"IconID": 208,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Tablettes", "Scultures"],
+	"Background": "atelier_scult"
+},
+{
+	"ID": 7,
+	"Name": "Forgeron",
+	"IconID": 224,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Fonderie", "Equipements","Armement"],
+	"Background": "forge"
+},
+{
+	"ID": 8,
+	"Name": "Bricoleur",
+	"IconID": 272,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Bricolage","Equipements"],
+	"Background": "atelier"
+},
+{
+	"ID": 9,
+	"Name": "Orfêvre",
+	"IconID": 288,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Joailleire","Orfêvrerie"],
+	"Background": "atelier"
+},
+{
+	"ID": 10,
+	"Name": "Tanneur",
+	"IconID": 320,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Confection","Vêtements","Chapeaux", "Chaussures","Gants","Accessoires"],
+	"Background": "tannerie"
+},
+{
+	"ID": 11,
+	"Name": "Scribe",
+	"IconID": 352,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Papeterie","Parchemins","Livres"],
+	"Background": "scribe"
+},
+{
+	"ID": 384,
+	"Name": "Alchimiste",
+	"IconID": 128,
+	"ExpFormula": "20*level + (20-level)*level",
+	"MaxLevel": 20,
+	"Categories": ["Potions", "Poisons"],
+	"Background": "laboratoire"
+}
+]
+
